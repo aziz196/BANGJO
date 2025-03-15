@@ -3,6 +3,255 @@
 #EXTM3U
 
 
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/indosiaroke..jpg.png" group-title="📺TV ID1📺",⭐INDOSIAR 1📺
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/indosiaroke..jpg.png" group-title="📺TV ID1📺",⭐INDOSIAR 2📺
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logopancingan/rctioke..jpg.png" group-title="📺TV ID1📺",⭐RCTI📺
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+
+
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://mastertv.tech/logopancingan/ssctv..jpg.png" group-title="📺TV ID1📺",⭐ SCTV 📺
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=Sctv
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logopancingan/tpi..jpg.png" group-title="📺TV ID1📺",⭐MNCTV📺
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://mastertv.tech/logopancingan/antvoke..jpg.png" group-title="📺TV ID1📺",⭐ ANTV📺
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/gtvv..jpg.png" group-title="📺TV ID1📺",⭐GTV📺
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/transtvlama..jpg.png" group-title="📺TV ID1📺",⭐TRANS TV📺
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tv7..jpg.png" group-title="📺TV ID1📺",⭐TRANS 7📺
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tvone..jpg.png" group-title="📺TV ID1📺",⭐TV ONE📺
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logopancingan/metrrotv..jpg.png" group-title="📺TV ID1📺",⭐Metro TV📺
+https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/kompastv..jpg.png" group-title="📺TV ID1📺",⭐KOMPAS TV📺
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/nettv..jpg.png" group-title="📺TV ID1📺",⭐NET TV📺
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/Logomod/moji.jpg" group-title="📺TV ID1📺",⭐ MOJI 📺
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/Logomod/rtvvv.jpg" group-title="📺TV ID1📺",⭐RTV📺
+https://cempedak-cdn-fly.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/Logomod/btvv.png.jpg" group-title="📺TV ID1📺",⭐BTV📺
+https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logopancingan/tvrilama..jpg.png" group-title="📺TV ID1📺",⭐TVRI📺
+https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/Logomod/jaktv..png.jpg" group-title="📺TV ID1📺",⭐Jaktv📺
+https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/Logomod/jtvvv.png.jpg" group-title="📺TV ID1📺",⭐JTV📺
+https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png" group-title="📺TV ID1📺",⭐NUSANTARA TV📺
+#https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png" group-title="📺TV ID1📺",⭐GARUDA TV📺
+#https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png" group-title="📺TV ID1📺",⭐INDONESIANA TV📺
+#https://tvstreamcast.com/indonesiana.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################№
+
+#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" "https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1" max-conn="1" refresh="0"
+#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" "https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="9" max-conn="1" refresh="4"
+#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" "https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="8" max-conn="1" refresh="3"
+#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" "https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="7" max-conn="1" refresh="2"
+#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" "https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="0" max-conn="1" refresh="1"
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/indosiaroke..jpg.png" group-title="📺TVID2📺=📺",⭐INDOSIAR
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/585.ts
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/indosiaroke..jpg.png" group-title="📺TVID2📺=📺",⭐INDOSIAR
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1https://ktvindonesia.my.id/live/PLKINGTV03/27022025/585.tsv2
+
+
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/lokal/indosiar.png" group-title="📺TV ID1📺",⭐ INDOSIAR FHD
+#EXTVLCOPT:http-user-agent=	OTT Navigator/1.7.1.2 (Linux;Android 31; en; HETCWLVZIK) 
+https://mantul.biz.id:443/user010223/user010223/5286.ts
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/rctioke..jpg.png" group-title="📺TVID2📺=📺",⭐RCTI
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/580.ts
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/ssctv..jpg.png" group-title="📺TVID2📺=📺",⭐SCTV
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/581.ts
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tpi..jpg.png" group-title="📺TVID2📺=📺",⭐MNC TV
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/579.ts
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/antvoke..jpg.png" group-title="📺TVID2📺=📺",⭐ANTV 
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/565.ts
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/gtvv..jpg.png" group-title="📺TVID2📺=📺",⭐GTV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/578.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/transtvlama..jpg.png" group-title="📺TVID2📺=📺",⭐TRANS TV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/576.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tv7..jpg.png" group-title="📺TVID2📺=📺",⭐TRANS 7
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV03/27022025/577.ts
+
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logo/Logomod/moji.jpeg" group-title="📺TVID2📺=📺",⭐MOJI
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV03/27022025/584.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tvone..jpg.png" group-title="📺TVID2📺=📺",⭐TV ONE
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/562.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/metrrotv..jpg.png" group-title="📺TVID2📺=📺",⭐METRO TV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/563.ts
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/kompastv..jpg.png" group-title="📺TVID2📺=📺",⭐ KOMPAS TV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/564.ts
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/nettv..jpg.png" group-title="📺TVID2📺=📺",⭐NET TV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/574.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logoettv..jpg.png" group-title="📺TVID2📺=📺",⭐RTV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV03/27022025/561.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingang" group-title="📺TVID2📺=📺",⭐VTV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV03/27022025/560.ts
+
+
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="📺ALL ID CHANNELS📺",⭐1.RTV  C🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi #EXTVLCOPT:http-referrer=https://visionplus.id 
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
